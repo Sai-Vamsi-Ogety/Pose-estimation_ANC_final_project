@@ -13,13 +13,13 @@ This is a final project done as per course requirement in EEE 511: Artificial Ne
 - Setting up the environment:
 https://www.youtube.com/watch?v=RW4LMNG65mo
 
--Pose estimation for single and Multi person:
+- Pose estimation for single and Multi person:
 https://www.youtube.com/watch?v=JPe3xR_hNzc
 
--Pose estimation failure cases:
+- Pose estimation failure cases:
 https://www.youtube.com/watch?v=gdjLlNV3gUs
 
--Pose estimation for counting people:
+- Pose estimation for counting people:
 https://www.youtube.com/watch?v=M9s3MTwogVQ
 
 
